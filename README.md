@@ -83,8 +83,6 @@ Computer Systems Engineering Student
 Specialty: Cybersecurity  
 Instituto Tecnológico de Morelia  
 
-📧 Contacto / Contact: [LinkedIn](https://www.linkedin.com/in/rogelio-punzo) *(opcional)*
-
 ---
 
 Este repositorio se distribuye únicamente con fines académicos y profesionales.  
